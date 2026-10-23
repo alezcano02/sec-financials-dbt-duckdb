@@ -1,0 +1,16 @@
+name: sec_financials
+version: "1.0.0"
+profile: sec_financials
+
+model-paths: ["models"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+models:
+  sec_financials:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: view
+    marts:
+      +materialized: table

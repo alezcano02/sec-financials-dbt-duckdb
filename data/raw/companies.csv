@@ -1,0 +1,99 @@
+cik,ticker,name,sic,sic_description,fiscal_year_end
+1045810,NVDA,NVIDIA CORP,3674,Semiconductors & Related Devices,0131
+320193,AAPL,Apple Inc.,3571,Electronic Computers,0926
+1652044,GOOGL,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",1231
+789019,MSFT,MICROSOFT CORP,7372,Services-Prepackaged Software,0630
+1018724,AMZN,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses,1231
+1326801,META,"Meta Platforms, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",1231
+1730168,AVGO,Broadcom Inc.,3674,Semiconductors & Related Devices,1101
+1318605,TSLA,"Tesla, Inc.",3711,Motor Vehicles & Passenger Car Bodies,1231
+1067983,BRK-B,BERKSHIRE HATHAWAY INC,6331,"Fire, Marine & Casualty Insurance",1231
+59478,LLY,ELI LILLY & Co,2834,Pharmaceutical Preparations,1231
+723125,MU,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices,0902
+104169,WMT,Walmart Inc.,5331,Retail-Variety Stores,0131
+19617,JPM,JPMORGAN CHASE & CO,6021,National Commercial Banks,1231
+2488,AMD,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices,1226
+1403161,V,VISA INC.,7389,"Services-Business Services, NEC",0930
+2115436,XOM,ExxonMobil Holdings Corp,2911,Petroleum Refining,1231
+937966,ASML,ASML HOLDING NV,3559,"Special Industry Machinery, NEC",1231
+200406,JNJ,JOHNSON & JOHNSON,2834,Pharmaceutical Preparations,0103
+1141391,MA,Mastercard Inc,7389,"Services-Business Services, NEC",1231
+1551152,ABBV,AbbVie Inc.,2834,Pharmaceutical Preparations,1231
+50863,INTC,INTEL CORP,3674,Semiconductors & Related Devices,1227
+1321655,PLTR,Palantir Technologies Inc.,7372,Services-Prepackaged Software,1231
+909832,COST,COSTCO WHOLESALE CORP /NEW,5331,Retail-Variety Stores,0830
+93410,CVX,CHEVRON CORP,2911,Petroleum Refining,1231
+858877,CSCO,"CISCO SYSTEMS, INC.",3576,Computer Communications Equipment,0731
+21344,KO,COCA COLA CO,2080,Beverages,1231
+1341439,ORCL,ORACLE CORP,7372,Services-Prepackaged Software,0531
+731766,UNH,UNITEDHEALTH GROUP INC,6324,Hospital & Medical Service Plans,1231
+80424,PG,PROCTER & GAMBLE Co,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",0630
+310158,MRK,"Merck & Co., Inc.",2834,Pharmaceutical Preparations,1231
+70858,BAC,BANK OF AMERICA CORP /DE/,6021,National Commercial Banks,1231
+18230,CAT,CATERPILLAR INC,3531,Construction Machinery & Equip,1231
+707549,LRCX,LAM RESEARCH CORP,3559,"Special Industry Machinery, NEC",0627
+6951,AMAT,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices,1026
+1089113,HSBC,HSBC HOLDINGS PLC,6035,"Savings Institution, Federally Chartered",1231
+354950,HD,"HOME DEPOT, INC.",5211,Retail-Lumber & Other Building Materials Dealers,0131
+1413329,PM,Philip Morris International Inc.,2111,Cigarettes,1231
+40545,GE,GENERAL ELECTRIC CO,3600,Electronic & Other Electrical Equipment (No Computer Equip),1231
+1306965,SHEL,Shell plc,1311,Crude Petroleum & Natural Gas,1231
+1571996,DELL,Dell Technologies Inc.,3571,Electronic Computers,0129
+1114448,NVS,NOVARTIS AG,2834,Pharmaceutical Preparations,1231
+1065280,NFLX,NETFLIX INC,7841,Services-Video Tape Rental,1231
+895421,MS,MORGAN STANLEY,6211,"Security Brokers, Dealers & Flotation Companies",1231
+1327567,PANW,Palo Alto Networks Inc,3577,"Computer Peripheral Equipment, NEC",0731
+1000275,RY,ROYAL BANK OF CANADA,6029,"Commercial Banks, NEC",1031
+1577552,BABA,Alibaba Group Holding Ltd,7389,"Services-Business Services, NEC",
+1000184,SAP,SAP SE,7372,Services-Prepackaged Software,1231
+901832,AZN,ASTRAZENECA PLC,2834,Pharmaceutical Preparations,1231
+101829,RTX,RTX Corp,3724,Aircraft Engines & Engine Parts,1231
+886982,GS,GOLDMAN SACHS GROUP INC,6211,"Security Brokers, Dealers & Flotation Companies",1231
+97745,TMO,THERMO FISHER SCIENTIFIC INC.,3829,"Measuring & Controlling Devices, NEC",1231
+97476,TXN,TEXAS INSTRUMENTS INC,3674,Semiconductors & Related Devices,1231
+72971,WFC,WELLS FARGO & COMPANY/MN,6021,National Commercial Banks,1231
+67088,MUFG,MITSUBISHI UFJ FINANCIAL GROUP INC,6029,"Commercial Banks, NEC",0331
+1996810,GEV,GE Vernova Inc.,3600,Electronic & Other Electrical Equipment (No Computer Equip),1231
+1973239,ARM,ARM HOLDINGS PLC /UK,3674,Semiconductors & Related Devices,0331
+318154,AMGN,AMGEN INC,2836,"Biological Products, (No Diagnostic Substances)",1231
+1535527,CRWD,"CrowdStrike Holdings, Inc.",7372,Services-Prepackaged Software,0131
+1094517,TM,TOYOTA MOTOR CORP/,3711,Motor Vehicles & Passenger Car Bodies,0331
+1707925,LIN,LINDE PLC,2810,Industrial Inorganic Chemicals,1231
+1596532,ANET,"Arista Networks, Inc.",3576,Computer Communications Equipment,1231
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,3570,Computer & office Equipment,1231
+1594805,SHOP,SHOPIFY INC.,7372,Services-Prepackaged Software,1231
+1835632,MRVL,"Marvell Technology, Inc.",3674,Semiconductors & Related Devices,0130
+4962,AXP,AMERICAN EXPRESS CO,6199,Finance Services,1231
+319201,KLAC,KLA CORP,3827,Optical Instruments & Lenses,0630
+811809,BHP,BHP Group Ltd,1000,Metal Mining,0630
+831001,C,CITIGROUP INC,6021,National Commercial Banks,1231
+947263,TD,TORONTO DOMINION BANK,6029,"Commercial Banks, NEC",1031
+1108524,CRM,"Salesforce, Inc.",7372,Services-Prepackaged Software,0131
+2023554,SNDK,Sandisk Corp,3572,Computer Storage Devices,0628
+879764,TTE,TotalEnergies SE,1311,Crude Petroleum & Natural Gas,1231
+820313,APH,AMPHENOL CORP /DE/,3678,Electronic Connectors,1231
+6281,ADI,ANALOG DEVICES INC,3674,Semiconductors & Related Devices,1031
+882095,GILD,"GILEAD SCIENCES, INC.",2836,"Biological Products, (No Diagnostic Substances)",1231
+1744489,DIS,Walt Disney Co,7990,Services-Miscellaneous Amusement & Recreation,1003
+891478,SAN,"Banco Santander, S.A.",6029,"Commercial Banks, NEC",1231
+804328,QCOM,QUALCOMM INC/DE,3663,Radio & Tv Broadcasting & Communications Equipment,0927
+732712,VZ,VERIZON COMMUNICATIONS INC,4813,Telephone Communications (No Radiotelephone),1231
+2012383,BLK,"BlackRock, Inc.",6211,"Security Brokers, Dealers & Flotation Companies",1231
+77476,PEP,PEPSICO INC,2080,Beverages,1226
+1800,ABT,ABBOTT LABORATORIES,2834,Pharmaceutical Preparations,1231
+1163165,COP,CONOCOPHILLIPS,2911,Petroleum Refining,1231
+63908,MCD,MCDONALDS CORP,5812,Retail-Eating  Places,1231
+353278,NVO,NOVO NORDISK A S,2834,Pharmaceutical Preparations,1231
+1001838,SCCO,SOUTHERN COPPER CORP/,1000,Metal Mining,1231
+78003,PFE,PFIZER INC,2834,Pharmaceutical Preparations,1231
+766704,WELL,WELLTOWER INC.,6798,Real Estate Investment Trusts,1231
+100885,UNP,UNION PACIFIC CORP,4011,"Railroads, Line-Haul Operating",1231
+315189,DE,DEERE & CO,3523,Farm Machinery & Equipment,1101
+1283699,TMUS,"T-Mobile US, Inc.",4812,Radiotelephone Communications,1231
+1119639,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,1311,Crude Petroleum & Natural Gas,1231
+47710,HTHIY,HITACHI LTD,1600,Heavy Construction Other Than Bldg Const - Contractors,0331
+753308,NEE,NEXTERA ENERGY INC,4911,Electric Services,1231
+1668717,BUD,Anheuser-Busch InBev SA/NV,2082,Malt Beverages,1231
+109198,TJX,TJX COMPANIES INC /DE/,5651,Retail-Family Clothing Stores,0201
+732717,T,AT&T INC.,4813,Telephone Communications (No Radiotelephone),1231
+1158838,ATEYY,ADVANTEST CORP,3674,Semiconductors & Related Devices,1231

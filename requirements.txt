@@ -1,0 +1,8 @@
+dbt-duckdb>=1.9
+duckdb>=1.1
+pandas
+pyarrow
+requests
+matplotlib
+seaborn
+jupyter

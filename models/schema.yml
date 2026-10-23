@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: stg_companies
+    description: One row per company with its sector
+    columns:
+      - name: cik
+        tests: [not_null, unique]
+      - name: ticker
+        tests: [not_null, unique]
+      - name: sector
+        tests:
+          - accepted_values:
+              values: ['Banks and finance', 'Insurance', 'Real estate and holdings', 'Technology hardware', 'Software and internet',
+                       'Health care', 'Energy', 'Telecom and media', 'Retail', 'Manufacturing', 'Other']
+
+  - name: int_annual_values
+    description: One value per company, year and line item
+    tests:
+      - unique_combination:
+          columns: ['cik', 'calendar_year', 'line_item']
+
+  - name: fct_annual_financials
+    description: Annual financial statements, one row per company and year
+    tests:
+      - unique_combination:
+          columns: ['cik', 'calendar_year']
+    columns:
+      - name: ticker
+        tests: [not_null]
+      - name: total_assets
+        tests:
+          - positive_or_null
+
+  - name: fct_financial_ratios
+    description: Ratios by company and year
+    columns:
+      - name: equity_ratio
+        tests:
+          - between_or_null:
+              low: -5
+              high: 1
+              config:
+                severity: warn
